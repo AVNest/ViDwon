@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViDown</string>
+    <string name="pasteLink">Paste link</string>
+    <string name="download">Download</string>
+    <string name="title_activity_down_load">DownLoad</string>
+    <string name="bottom_nav_menu">NavMenu</string>
+</resources>
